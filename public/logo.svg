@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+  <!-- Rounded square background -->
+  <rect width="24" height="24" rx="6" fill="#121640"/>
+  <!-- Stylized quill/pen nib icon — geometric and minimal -->
+  <path d="M12 3L6 15l6-2 6 2L12 3z" fill="#3358c4" opacity="0.9"/>
+  <path d="M12 13l-3 7h6l-3-7z" fill="#3358c4"/>
+  <circle cx="12" cy="20" r="1.2" fill="#5577e0"/>
+</svg>

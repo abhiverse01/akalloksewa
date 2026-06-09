@@ -1,0 +1,17 @@
+export const DEFAULT_PREFERENCES: import('@/types/auth').UserPreferences = {
+  theme: 'dark',
+  language: 'en',
+  defaultTestDuration: 30,
+  defaultQuestionCount: 20,
+  negativeMarkingEnabled: true,
+  negativeMarkValue: 0.25,
+  showKeyboardHints: true,
+  emailNotifications: false,
+  practiceReminder: false,
+  fontSize: 'normal',
+  optionLabelStyle: 'latin',
+  autoAdvance: false,
+  showExplanationInPractice: 'immediate',
+  shuffleQuestions: true,
+  shuffleOptions: true,
+}
